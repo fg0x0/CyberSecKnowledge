@@ -112,7 +112,7 @@ https://isc.sans.edu/tools/reversehash.html
 http://www.onlinehashcrack.com/ [$]
 http://hashcrack.in/en [$]
 
-#File Upload 📁
+# File Upload 📁
 
 https://mega.co.nz/
 https://www.mediafire.com/
@@ -133,20 +133,19 @@ https://ipleak.net/
 https://www.dnsleaktest.com/
 https://diafygi.github.io/webrtc-ips/
 
-#Torcheck 🧅
+# Torcheck 🧅
 
 http://5deqglhxcoy3gbx6.onion - Xenobite
 http://tmkloc6vhxos3nde.onion
 
-#SMS 📩
+# SMS 📩
 
 http://receive-sms-now.com/
 http://www.receive-sms-online.info/
 http://www.receivesmsonline.net/
 
-Fake Identity 🙃
+# Fake Identity 🙃
 
 http://www.fakenamegenerator.com/
 https://fakena.me/
 http://names.igopaygo.com/people/fake_person
-```
